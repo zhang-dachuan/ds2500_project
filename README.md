@@ -1,4 +1,4 @@
-# Project: What Makes a Popular Song
+# Project: What Makes a Popular Song (2020)
 Contributors: Gianna Barletta, Sophie Lefebvre, Grace Michael, Preston Reep & Dachuan Zhang
 
 ### General Project Goals:
