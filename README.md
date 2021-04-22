@@ -4,9 +4,9 @@ Contributors: Gianna Barletta, Sophie Lefebvre, Grace Michael, Preston Reep & Da
 ### General Project Goals:
 Analyze similarities between songs to determine what makes a popular song
 - Using Top 40 Streamed Songs of 2020
-- Using Spotify data on each song: Genre, duration (in milliseconds), danceability, etc.
+- Using Spotify data on each song: Genre, duration (in milliseconds), danceability, etc
 - Analyze the relationship between streams and highest billboard position
-- Determine which song is the “best” popular song by comparing average length, most repeated words, etc. and seeing which song is closest to these parameters.
+- Determine which song is the “best” popular song by comparing average length, most repeated words, etc. and seeing which song is closest to these parameters
 
 ### Significance:
 - The analysis above will help to show what trends in songwriting and production create songs that are most successful streaming-wise
@@ -24,7 +24,7 @@ Analyze similarities between songs to determine what makes a popular song
 - Using the above parameters, determine which song best meets the “most popular” criteria - ie median length of lines, choruses, most common words, etc
 Bell curve plot
 - Look at Spotify data on those songs and analyze trends (from Kaggle dataset)
-Genre, duration (in milliseconds), danceability, etc.
+  - Genre, duration (in milliseconds), danceability, etc.
 
 
 ### Data Sources:
