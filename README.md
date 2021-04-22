@@ -29,7 +29,6 @@ Bell curve plot
 
 ### Data Sources:
 We used these sources to build our own csv and txt files.
-
 - Top 40 Streamed Songs of 2020: https://www.officialcharts.com/chart-news/the-official-top-40-biggest-songs-of-2020__29264/ 
 
 - Using these songs, find the lyrics on: https://www.musixmatch.com/ 
