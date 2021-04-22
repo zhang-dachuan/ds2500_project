@@ -22,7 +22,7 @@ Analyze similarities between songs to determine what makes a popular song
   - Heatmap of billboard positions in relation to above stats
   - Weight the peak positions to scatter-plot vs the number of streams
 - Using the above parameters, determine which song best meets the “most popular” criteria - ie median length of lines, choruses, most common words, etc
-Bell curve plot
+  - Bell curve plot
 - Look at Spotify data on those songs and analyze trends (from Kaggle dataset)
   - Genre, duration (in milliseconds), danceability, etc.
 
